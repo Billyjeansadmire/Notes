@@ -1,2 +1,3 @@
-# Notes
-Use it for notes
+
+HTB{0bfusc4t1ng_th3_Str1ngs_1s_n0t_3n0ugh}
+HTB{m4cr0s_st1ll_p0s3_4_s3cur1ty_r1sk}
